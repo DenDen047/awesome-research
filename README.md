@@ -6,6 +6,9 @@ A curated list of tools to help you and me with the research/life.
 
 ## Tips
 - [情報系研究者のためのtips 2019年度版](https://qiita.com/guicho271828/items/3664aec81f6cc7e8f179)
+- [コマンドを並列に実行するGNU parallelがとても便利](http://bicycle1885.hatenablog.com/entry/2014/08/10/143612)
+- [emptymalei/awesome-research](https://github.com/emptymalei/awesome-research/blob/master/README.md)
+- [derikon/awesome-research](https://github.com/derikon/awesome-research/blob/master/readme.md)
 
 ## Write README.md
 
