@@ -27,6 +27,10 @@ A curated list of tools to help you and me with the research/life.
 
 - [慌てるな、でも続けよう。](https://togetter.com/li/1470180)
 
+## Grants
+
+- [学振特別研究員になるために（2020年度申請版）](https://www.slideshare.net/tonets/gakushin2020-135999676)
+
 ## Tips
 - [情報系研究者のためのtips 2019年度版](https://qiita.com/guicho271828/items/3664aec81f6cc7e8f179)
 - [コマンドを並列に実行するGNU parallelがとても便利](http://bicycle1885.hatenablog.com/entry/2014/08/10/143612)
