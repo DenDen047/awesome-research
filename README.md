@@ -12,44 +12,51 @@ A curated list of tools to help you and me with the research/life.
 4. Write down `Abstract` of your paper, and collecting `Related Works`, jot down `Background`
 5. Development and writing
 
-## Write README.md
+## Reading Papers
 
-- read [Make a README](https://www.makeareadme.com/)
-- add batches with [Shields.io](https://shields.io/)
+- [Stanford CS230: Deep Learning | Autumn 2018 | Lecture 8 - Career Advice / Reading Research Papers](https://youtu.be/733m6qBH-jI)
 
 ## Tools
 
 - [TensorFlow Research Cloud](https://www.tensorflow.org/tfrc)
 
-## Reading
+## Writing README.md
 
-- [Stanford CS230: Deep Learning | Autumn 2018 | Lecture 8 - Career Advice / Reading Research Papers](https://youtu.be/733m6qBH-jI)
+- read [Make a README](https://www.makeareadme.com/)
+- add batches with [Shields.io](https://shields.io/)
 
-## Writing
+## Writing Papers
 
 - [Technical Writing Courses by Google](https://developers.google.com/tech-writing)
 - [松尾ぐみの論文の書き方](http://ymatsuo.com/japanese/ronbun_jpn.html)
 - [松尾ぐみの論文の書き方：英語論文](http://ymatsuo.com/japanese/ronbun_eng.html)
 - [やればできる 卒業論文の書き方](http://www015.upp.so-net.ne.jp/notgeld/sotsuron.html)
 
-## Philosophy
-
-- [慌てるな、でも続けよう。](https://togetter.com/li/1470180)
-
 ## Grants
 
 - [学振特別研究員になるために（2020年度申請版）](https://www.slideshare.net/tonets/gakushin2020-135999676)
 - [論文ゼロでも学振DC1に面接経由で採用された申請書の書き方のコツと面接対策ポイント](https://ocoshite.me/how-to-get-gakushin-dc1)
 
-## Lab
+## Lab Env
 
 - [Google re:Work](https://rework.withgoogle.com/)
+- [Learning Day](https://openai.com/blog/learning-day/)
+- [学生30人に教員1人の研究室運営について](http://nkmr-lab.org/docs/management2017-2019.html)
+
+## Philosophy
+
+- [慌てるな、でも続けよう。](https://togetter.com/li/1470180)
 
 ## Tips
+
 - [情報系研究者のためのtips 2019年度版](https://qiita.com/guicho271828/items/3664aec81f6cc7e8f179)
 - [コマンドを並列に実行するGNU parallelがとても便利](http://bicycle1885.hatenablog.com/entry/2014/08/10/143612)
 - [emptymalei/awesome-research](https://github.com/emptymalei/awesome-research/blob/master/README.md)
 - [derikon/awesome-research](https://github.com/derikon/awesome-research/blob/master/readme.md)
+
+## Books
+
+- [イシューからはじめよ――知的生産の「シンプルな本質」](https://amzn.to/2PEwYqh)
 
 ## For Me
 
