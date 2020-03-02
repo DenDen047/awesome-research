@@ -19,6 +19,10 @@ A curated list of tools to help you and me with the research/life.
 
 ## Tools
 
+## Writing
+
+- [Technical Writing Courses by Google](https://developers.google.com/tech-writing)
+
 ## Philosophy
 
 - [慌てるな、でも続けよう。](https://togetter.com/li/1470180)
